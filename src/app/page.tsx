@@ -193,7 +193,7 @@ export default function Home() {
         </div>
         <div>
           <span className="text-zinc-400"> 0:31 até</span>
-          <span className="text-zinc-400"> 2:14</span>
+          <span className="text-zinc-400"> 2:20</span>
         </div>
 
           <div className="flex itens-center h-1 rounded-full w-24 bg-zinc-600 ml-auto ">
